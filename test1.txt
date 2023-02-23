@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5442-A048
+
+ Directory of C:\Users\gboch\Desktop\MyProject
+
+23/02/2023  11:24    <DIR>          .
+23/02/2023  11:24    <DIR>          ..
+23/02/2023  11:24                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  153,384,648,704 bytes free
